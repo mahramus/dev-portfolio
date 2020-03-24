@@ -1,3 +1,6 @@
 .banner-back {
-  background-image: url(img/bannerback.jpg);
+  background-image: url("../img/newback.jpg");
+  background-repeat: repeat;
+  background-position: center center;
+  background-color: rgb(103, 96, 212);
 }
