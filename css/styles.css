@@ -4,3 +4,10 @@
   background-position: center center;
   background-color: rgb(103, 96, 212);
 }
+
+.about-back {
+  background-image: url("../img/plainback.jpg");
+  background-repeat: repeat;
+  background-position: center center;
+  background-color: rgb(103, 96, 212);
+}
